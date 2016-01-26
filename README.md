@@ -1,5 +1,5 @@
-# lunar_lander_bot
-Lunar Lander game on Telegram
+# Lunar Lander Bot
+Game as Telegram bot
 ```
 pip install -r requirements.txt
 python moonbot.py
